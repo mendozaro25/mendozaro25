@@ -48,9 +48,18 @@ I am a **Systems Engineer** with over **3 years of experience** in software deve
 ## 📫 Connect with Me  
   
 <p align="left">  
-  <a href="https://www.linkedin.com/in/juan-luis-mendoza-romero-27bb0b221/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>  
-  <a href="https://github.com/mendozaro25"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>  
-  <a href="mailto:jmendozaro73@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>  
+ <a href="https://www.linkedin.com/in/juan-luis-mendoza-romero-27bb0b221/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>  
+<a href="https://github.com/mendozaro25" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+</a>  
+<a href="mailto:jmendozaro73@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+</a>  
+<a href="https://next-portfolio-ecru-kappa.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=world">
+</a>
 </p>  
   
 ---  
