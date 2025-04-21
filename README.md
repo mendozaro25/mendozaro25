@@ -1,4 +1,3 @@
-## 🚀 About Me  
 ![Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=600&lines=Welcome+to+my+profile+👋+!;Systems+Engineer+|+Developer+Analyst+;Analyzing+is+understanding,+developing+is+solving.;)  
 I am a **Systems Engineer** with over **3 years of experience** in software development, specializing in **backend architecture, RESTful APIs, and scalable technology solutions**. I am passionate about designing high-performance, secure, and efficient systems while integrating modern technologies and agile methodologies to drive innovation.  
   
