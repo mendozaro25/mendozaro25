@@ -6,8 +6,8 @@
 <h1 align="center">Hi, I'm Juan Mendoza 👨‍💻</h1>
 
 <p align="center">
-  A passionate <b>Systems Engineer</b> from 🇵🇪 Perú with +3 years of experience building backend architectures, APIs, and fullstack solutions.  
-  <br />Constant learner | Developer Analyst at Crops Logistk S.A.C | Problem Solver
+  Systems Engineer with over three years of experience developing business projects.
+  <br />Developer Analyst | Full Stack Development | Project Management | Data Analysis
 </p>
 
 ---
