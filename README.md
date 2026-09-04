@@ -6,7 +6,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=CA2529&height=200&section=header&text=Juan%20Luis%20Mendoza%20Romero&fontSize=36&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AI%20Integrator%20%7C%20Systems%20Architect&descAlignY=58&fontColor=ffffff&descColor=f0f0f0" />
 
 <!-- ── TYPING ANIMATION ── -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=CA2529&center=true&vCenter=true&width=700&lines=🚀+Building+scalable+enterprise+platforms;⚙️+Microservices+%7C+Spring+Boot+%7C+Angular;🤖+AI+Integration+with+SpringAI+%26+OpenAI;🧠+Multi-Tenant+ERP+%7C+Clean+Architecture;🌎+Based+in+Trujillo%2C+Perú+%7C+Open+to+Remote" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=CA2529&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Full+Stack+Engineer+%7C+Systems+Architect;Microservices+%7C+Spring+Boot+%7C+Angular+20;AI+Integration+with+SpringAI+%26+OpenAI;Multi-Tenant+ERP+Developer;Open+to+Remote+Opportunities" alt="Typing SVG" />
 
 <!-- ── PROFILE VIEWS + SOCIALS ── -->
 <br/>
@@ -137,7 +137,7 @@ public class JuanMendoza extends FullStackEngineer {
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=mendozaro25&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=CA2529&icon_color=CA2529&text_color=ffffff&ring_color=CA2529" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mendozaro25&theme=radical&hide_border=true&background=0D1117&ring=CA2529&fire=CA2529&currStreakLabel=CA2529&sideLabels=ffffff&dates=ffffff&stroke=CA2529" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=mendozaro25&theme=radical&hide_border=true&background=0D1117&ring=CA2529&fire=CA2529&currStreakLabel=CA2529&sideLabels=ffffff&dates=ffffff&stroke=CA2529" width="49%" />
 
 <br/>
 
@@ -159,7 +159,7 @@ public class JuanMendoza extends FullStackEngineer {
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mendozaro25&theme=react-dark&bg_color=0D1117&color=CA2529&line=CA2529&point=ffffff&hide_border=true&area=true&area_color=CA2529)](https://github.com/mendozaro25)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mendozaro25&bg_color=0D1117&color=CA2529&line=CA2529&point=ffffff&area=true&hide_border=true)](https://github.com/mendozaro25)
 
 </div>
 
@@ -171,13 +171,41 @@ public class JuanMendoza extends FullStackEngineer {
 
 ## 🐍 Contribution Snake
 
+<!-- ════════════════════════════════════════════════════════════
+     PASO 1: Ve a tu repo mendozaro25/mendozaro25 en GitHub
+     PASO 2: Crea el archivo .github/workflows/snake.yml con:
+
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: mendozaro25
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+     PASO 3: Ejecuta el workflow manualmente desde Actions
+     PASO 4: La imagen aparecerá automáticamente aquí abajo
+════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/mendozaro25/mendozaro25/output/github-contribution-grid-snake-dark.svg)
 
 </div>
-
-> ⚠️ *To activate the snake, create a GitHub Action in your repo — see setup instructions below.*
 
 ---
 
@@ -310,31 +338,3 @@ public class JuanMendoza extends FullStackEngineer {
 *⭐ If you find my work useful, consider giving a star to any of my repos!*
 
 </div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--          SNAKE SETUP (GitHub Actions — .github/workflows)      -->
-<!--                                                                 -->
-<!--  Create file: .github/workflows/snake.yml                      -->
-<!--                                                                 -->
-<!--  name: Generate Snake                                           -->
-<!--  on:                                                            -->
-<!--    schedule: [ cron: "0 0 * * *" ]                             -->
-<!--    workflow_dispatch:                                            -->
-<!--  jobs:                                                          -->
-<!--    generate:                                                     -->
-<!--      runs-on: ubuntu-latest                                     -->
-<!--      steps:                                                     -->
-<!--        - uses: Platane/snk/svg-only@v3                          -->
-<!--          with:                                                  -->
-<!--            github_user_name: mendozaro25                        -->
-<!--            outputs: |                                           -->
-<!--              dist/github-contribution-grid-snake.svg            -->
-<!--              dist/github-contribution-grid-snake-dark.svg       -->
-<!--              ?palette=github-dark                               -->
-<!--        - uses: crazy-max/ghaction-github-pages@v3               -->
-<!--          with:                                                  -->
-<!--            target_branch: output                                -->
-<!--            build_dir: dist                                      -->
-<!--          env:                                                   -->
-<!--            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
